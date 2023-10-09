@@ -1,0 +1,6 @@
+framework module PayPalMessages {
+  umbrella header "PayPalMessages-umbrella.h"
+
+  export *
+  module * { export * }
+}

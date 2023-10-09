@@ -1,0 +1,16 @@
+PODS:
+  - PayPalMessages (0.1.0)
+
+DEPENDENCIES:
+  - PayPalMessages (from `../`)
+
+EXTERNAL SOURCES:
+  PayPalMessages:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PayPalMessages: 00a7410da5dc1cf2394150661bfe0c09f615e72d
+
+PODFILE CHECKSUM: 781b709b4dd3c12c3ef4bfc98476021b0a7951b9
+
+COCOAPODS: 1.13.0
